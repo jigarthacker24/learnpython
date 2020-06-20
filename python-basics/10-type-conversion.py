@@ -11,4 +11,5 @@ a = str(100)
 b = int(a)
 c = type(b)
 
+print(type(c)) #type of type is <class 'type'>
 print(c)
